@@ -39,13 +39,13 @@ Exchange Rate API: API utilizada para obter as taxas de câmbio em tempo real.
 1. Ao executar o programa, o menu será exibido:
 
 Bem-vindo ao Conversor de Moedas!
-1 BRL (Real) para USD (Dólar Americano)
-2 BRL (Real) para EUR (Euro)
-3 BRL (Real) para GBP (Libra Esterlina)
-4 BRL (Real) para JPY (Iene Japonês)
-5 BRL (Real) para AUD (Dólar Australiano)
-6 BRL (Real) para CAD (Dólar Canadense)
-7 Sair
+1. BRL (Real) para USD (Dólar Americano)
+2. BRL (Real) para EUR (Euro)
+3. BRL (Real) para GBP (Libra Esterlina)
+4. BRL (Real) para JPY (Iene Japonês)
+5. BRL (Real) para AUD (Dólar Australiano)
+6. BRL (Real) para CAD (Dólar Canadense)
+7. Sair
 Escolha uma opção:
 
 2. Escolha a moeda para a qual deseja converter e insira o valor em BRL.
